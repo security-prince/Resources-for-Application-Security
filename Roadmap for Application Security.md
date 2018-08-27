@@ -4,7 +4,9 @@
     1. [PHP with MySQL Beyond The Basics](https://www.lynda.com/PHP-tutorials/PHP-MySQL-Essential-Training-1-Basics/587674-2.html) 
     2. [PHP with MySQL Essential Training: 2 Build a CMS](https://www.lynda.com/PHP-tutorials/PHP-MySQL-Essential-Training-1-Basics/587674-2.html)
 * [PHP: Object-Oriented Programming](https://www.lynda.com/PHP-tutorials/PHP-Object-Oriented-Programming/633867-2.html) 
-* [Learning-PHP-MySQL-JavaScript-and-CSS-2nd-Edition-1](https://education.fsu.edu/wp-content/uploads/2015/04/Learning-PHP-MySQL-JavaScript-and-CSS-2nd-Edition-1.pdf)
+* [
+Learning PHP, MySQL & JavaScript, 4th Edition
+With jQuery, CSS & HTML5](http://shop.oreilly.com/product/0636920036463.do)
 
 
 
