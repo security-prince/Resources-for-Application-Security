@@ -18,10 +18,10 @@ With jQuery, CSS & HTML5](http://shop.oreilly.com/product/0636920036463.do)
 ###### 3. Hands on CTF
 * [A good collection of CTFs for learning SAST and DAST](https://websec.fr/)
 
-##### 3. Perform SAST and DAST
+##### 4. Perform SAST and DAST
 Once you are done reading these 2 books above, try implementing the techniques you learnt from them on the application you developed in task 1
 
-##### 4. Securing Applications
+##### 5. Securing Applications
 Once you are able to perform SAST and DAST for the application, you also need to know how to secure it, for which the below books and resource are great
 * [The Tangled Web – A Guide to Securing Modern Web Applications](https://www.amazon.in/Tangled-Web-Securing-Modern-Applications/dp/1593273886)
 * [Essential PHP Security](https://www.amazon.com/Essential-PHP-Security-Chris-Shiflett/dp/059600656X)
@@ -29,7 +29,7 @@ Once you are able to perform SAST and DAST for the application, you also need to
 * [PHP Security](http://php.net/manual/en/security.php)
 * [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.io/en/latest/)
 
-##### 5. Further reaading
+##### 6. Further reaading
 * [The Browser Hacker's Handbook](https://www.amazon.in/Browser-Hackers-Handbook-Wade-Alcorn-ebook/dp/B00JV5JDM6)
 * [OWASP Testing Guide v4](https://www.owasp.org/index.php/OWASP_Testing_Project)
 * [Web Hacking 101](https://leanpub.com/web-hacking-101)
