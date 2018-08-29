@@ -15,6 +15,9 @@ With jQuery, CSS & HTML5](http://shop.oreilly.com/product/0636920036463.do)
 * [Mastering Modern Web Penetration Testing](https://www.packtpub.com/networking-and-servers/mastering-modern-web-penetration-testing)
 * [Hacker101](https://www.hacker101.com/)
 
+###### 3. Hands on CTF
+* [websec.fr](https://websec.fr/)
+
 ##### 3. Perform SAST and DAST
 Once you are done reading these 2 books above, try implementing the techniques you learnt from them on the application you developed in task 1
 
