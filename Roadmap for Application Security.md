@@ -19,7 +19,7 @@ With jQuery, CSS & HTML5](http://shop.oreilly.com/product/0636920036463.do)
 * [A good collection of CTFs for learning SAST and DAST](https://websec.fr/)
 
 ###### 4. Perform SAST and DAST
-Once you are done reading these 2 books above, try implementing the techniques you learnt from them on the application you developed in task 1
+Once you are done reading these 2 books above, try implementing the techniques you learnt from them on this [CTF challenges](https://github.com/security-prince/Roadmap-for-Application-Security/blob/master/Roadmap%20for%20Application%20Security.md#3-hands-on-ctf)and the application you developed in task 1
 
 ##### 5. Securing Applications
 Once you are able to perform SAST and DAST for the application, you also need to know how to secure it, for which the below books and resource are great
