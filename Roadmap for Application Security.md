@@ -7,6 +7,7 @@
 * [
 Learning PHP, MySQL & JavaScript, 4th Edition
 With jQuery, CSS & HTML5](http://shop.oreilly.com/product/0636920036463.do)
+* [Web technology for developers](https://developer.mozilla.org/bm/docs/Web) by [Mozilla](https://www.mozilla.org)
 
 
 
