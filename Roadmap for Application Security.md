@@ -34,3 +34,4 @@ Once you are able to perform SAST and DAST for the application, you also need to
 * [The Browser Hacker's Handbook](https://www.amazon.in/Browser-Hackers-Handbook-Wade-Alcorn-ebook/dp/B00JV5JDM6)
 * [OWASP Testing Guide v4](https://www.owasp.org/index.php/OWASP_Testing_Project)
 * [Web Hacking 101](https://leanpub.com/web-hacking-101)
+* [Writing Secure Code, 2nd Edition](https://www.microsoftpressstore.com/store/writing-secure-code-9780735617223)
