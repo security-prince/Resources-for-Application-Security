@@ -15,6 +15,7 @@ With jQuery, CSS & HTML5](http://shop.oreilly.com/product/0636920036463.do)
 * [Web Application Hacker handbook](https://www.amazon.in/Web-Application-Hackers-Handbook-Exploiting/dp/8126533404)
 * [Mastering Modern Web Penetration Testing](https://www.packtpub.com/networking-and-servers/mastering-modern-web-penetration-testing)
 * [Hacker101](https://www.hacker101.com/)
+* [Application Security Wiki](https://appsecwiki.com)
 
 ###### 3. Hands on CTF
 * [A good collection of CTFs for learning SAST and DAST](https://websec.fr/)
