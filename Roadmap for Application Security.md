@@ -36,3 +36,4 @@ Once you are able to perform SAST and DAST for the application, you also need to
 * [OWASP Testing Guide v4](https://www.owasp.org/index.php/OWASP_Testing_Project)
 * [Web Hacking 101](https://leanpub.com/web-hacking-101)
 * [Writing Secure Code, 2nd Edition](https://www.microsoftpressstore.com/store/writing-secure-code-9780735617223)
+* [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
