@@ -30,6 +30,7 @@ With jQuery, CSS & HTML5](http://shop.oreilly.com/product/0636920036463.do)
 ###### 3. Hands on CTF
 * [A good collection of CTFs for learning SAST and DAST](https://websec.fr/)
 * [A completely open code audit challenge!](https://code-breaking.com/)
+* [Web Security Academy](https://portswigger.net/web-security)
 
 ###### 4. Perform SAST and DAST
 Once you are done reading these 2 books above, try implementing the techniques you learnt from them on this [CTF challenges](https://github.com/security-prince/Roadmap-for-Application-Security/blob/master/Roadmap%20for%20Application%20Security.md#3-hands-on-ctf) and the application you developed in task 1
