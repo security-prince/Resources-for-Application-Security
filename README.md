@@ -4,6 +4,8 @@ Some good resources for getting started with application security
 *Note: The resources which i have put are those which i will be using in my application security learnings, feel free to use it for your learning purpose only and if you have any suggestions dm me on [Twitter](https://twitter.com/security_prince)*
 
 * [Development](https://github.com/security-prince/Resources-for-Application-Security#1-learn-about-web-application-technologies-and-development)
+* [Application Security Books and online resources](https://github.com/security-prince/Resources-for-Application-Security#2-application-security-books-and-online-resources)
+* [Hands on CTF](https://github.com/security-prince/Resources-for-Application-Security#3-hands-on-ctf)
 * [SAST and DAST](https://github.com/security-prince/Resources-for-Application-Security#2-application-security-books-and-online-resources)
 * [Securing Applications](https://github.com/security-prince/Resources-for-Application-Security#5-securing-applications)
 * [Further reading](https://github.com/security-prince/Resources-for-Application-Security#6-further-reaading)
