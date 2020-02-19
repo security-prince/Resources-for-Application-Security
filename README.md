@@ -37,10 +37,10 @@ With jQuery, CSS & HTML5](http://shop.oreilly.com/product/0636920036463.do)
 * [Hacker101 CTF](https://ctf.hacker101.com/)  
 
 ###### 4. Perform SAST and DAST
-Once you are done reading these 2 books above, try implementing the techniques you learnt from them on this [CTF challenges](https://github.com/security-prince/Resources-for-Application-Security/blob/master/README.md#3-hands-on-ctf) and the application you developed in task 1
+Once done reading these 2 books above, try implementing the techniques you learnt from them on this [CTF challenges](https://github.com/security-prince/Resources-for-Application-Security/blob/master/README.md#3-hands-on-ctf) and the application you developed in task 1
 
 ##### 5. Securing Applications
-Once you are able to perform SAST and DAST for the application, you also need to know how to secure it, for which the below books and resource are great
+Once we learn how to perform SAST and DAST for the application, we also need to know how to secure it, for which the below books and resource are great
 * [The Tangled Web – A Guide to Securing Modern Web Applications](https://www.amazon.in/Tangled-Web-Securing-Modern-Applications/dp/1593273886)
 * [Essential PHP Security](https://www.amazon.com/Essential-PHP-Security-Chris-Shiflett/dp/059600656X)
 * [SQL Injection Attacks and Defense](https://www.amazon.com/SQL-Injection-Attacks-Defense-Second/dp/1597499633)
@@ -54,3 +54,6 @@ Once you are able to perform SAST and DAST for the application, you also need to
 * [Writing Secure Code, 2nd Edition](https://www.microsoftpressstore.com/store/writing-secure-code-9780735617223)
 * [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
+
+###### Bonus
+[Application-Security-Engineer-Interview-Questions](https://github.com/security-prince/Application-Security-Engineer-Interview-Questions)  
