@@ -13,7 +13,7 @@ Some good resources for getting started with application security
 ###### 1. Learn About Web Application Technologies and Development
 * PHP with MySQL Essential Training by lynda
     1. [PHP with MySQL Beyond The Basics](https://www.lynda.com/PHP-tutorials/PHP-MySQL-Essential-Training-1-Basics/587674-2.html) 
-    2. [PHP with MySQL Essential Training: 2 Build a CMS](https://www.lynda.com/PHP-tutorials/PHP-MySQL-Essential-Training-1-Basics/587674-2.html)
+    2. [PHP with MySQL Essential Training: 2 Build a CMS](https://www.lynda.com/MySQL-tutorials/PHP-MySQL-Essential-Training-2-Build-CMS/587675-2.html)
 * [PHP: Object-Oriented Programming](https://www.lynda.com/PHP-tutorials/PHP-Object-Oriented-Programming/633867-2.html) 
 * [
 Learning PHP, MySQL & JavaScript, 4th Edition
