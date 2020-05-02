@@ -1,5 +1,8 @@
 # Resources for Application Security
 Some good resources for getting started with application security
+
+Also posted at https://ishaqmohammed.me/posts/resources-for-application-security/
+
 #### Inspired by: [Road to Web Application Security](http://garage4hackers.com/showthread.php?t=1788) by [Amol Naik](https://twitter.com/amolnaik4)
 *Note: The resources which i have put are those which i will be using in my application security learnings, feel free to use it for your learning purpose only and if you have any suggestions dm me on [Twitter](https://twitter.com/security_prince)*
 
