@@ -3,7 +3,6 @@ Some good resources for getting started with application security
 
 Updated post at https://ishaqmohammed.me/posts/resources-for-application-security/
 
-#### Inspired by: [Road to Web Application Security](http://garage4hackers.com/showthread.php?t=1788) by [Amol Naik](https://twitter.com/amolnaik4)
 *Note: The resources which i have put are those which i will be using in my application security learnings, feel free to use it for your learning purpose only and if you have any suggestions dm me on [Twitter](https://twitter.com/security_prince)*
 
 * [Development](https://github.com/security-prince/Resources-for-Application-Security#1-learn-about-web-application-technologies-and-development)
@@ -60,3 +59,5 @@ Once we learn how to perform SAST and DAST for the application, we also need to 
 
 ###### Bonus
 [Application-Security-Engineer-Interview-Questions](https://github.com/security-prince/Application-Security-Engineer-Interview-Questions)  
+
+#### Inspired by: [Road to Web Application Security](http://garage4hackers.com/showthread.php?t=1788) by [Amol Naik](https://twitter.com/amolnaik4)
